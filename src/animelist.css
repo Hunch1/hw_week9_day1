@@ -1,0 +1,17 @@
+.center-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; 
+    width: 400px; 
+    margin: auto;
+}
+
+.list-group {
+    list-style: none;
+    padding: 0;
+}
+
+.list-group-item {
+    padding: 12px;
+}
